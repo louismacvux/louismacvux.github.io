@@ -10,8 +10,8 @@ Self-motivated and reliable while doing high-demanding works. REsponsible and fa
 >* Analysis of Algorithm
 >* Programming Practices
 >* Discrete Mathematics 
->#### SEPTEMBER 2018-2019
->### B.SCIENCE, International College of Manitoba
+> #### SEPTEMBER 2018-2019
+> ### B.SCIENCE, International College of Manitoba
 >* Vector Geometry
 >* Linear Algebra
 >* Calculus
