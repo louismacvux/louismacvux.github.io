@@ -10,6 +10,7 @@ Self-motivated and reliable while doing high-demanding works. REsponsible and fa
 >* Analysis of Algorithm
 >* Programming Practices
 >* Discrete Mathematics 
+>
 > #### SEPTEMBER 2018-2019
 > ### B.SCIENCE, International College of Manitoba
 >* Vector Geometry
@@ -21,9 +22,11 @@ Self-motivated and reliable while doing high-demanding works. REsponsible and fa
 > #### DECEMBER 2020 - NOW
 > ### INTERPRETER, LanguageLine Solutions
 > Provide interpretation over the phone for English inefficient speaker, facilitate transient conversation and information exchange.
+> 
 > #### SEPTEMBER 2019 - DECEMBER 2019
 > ### PHOTOGRAPHER, Pho Hoang Restaurant
 > Photographed high-quality food photography for social media with precise lightning settings and composition
+> 
 > #### DECEMBER 2017 - MARCH 2018
 > ### TEACHING ASSISTANT, Nam Anh Education
 > Worked with individual students to provide personalized educational. emotional support.
