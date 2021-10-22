@@ -1,5 +1,5 @@
 # MINH LONG VU
-
+[minhlong9696@gmail.com](linkedin.com/in/longvux/) | (204) 557 0554
 
 Self-motivated and reliable while doing high-demanding works. REsponsible and fast-learner individuals who willing to grow professionally. Patient and skillful to do precise work.
 
