@@ -1,5 +1,7 @@
 [LinkedIn](linkedin.com/in/longvux/) | (204) 557 0554 | [minhlong9696@gmail.com](minhlong9696@gmail.com)
 
+Self-motivated and reliable while doing high-demanding works. Responsible and fast-learner individuals who willing to grow professionally. Patient and skillful to do precise work.
+
 
 ## EDUCATION
 > #### SEPTEMBER 2019 - 2022
@@ -16,6 +18,10 @@
 >* Calculus
 >* Computer Programming
 
+## SKILLS
+#### Programming languages: C, Java, Python, SQL, 
+#### Software: IntelliJ IDEA, Xcode, Microsoft Office, Adobe Lightroom, GitHub
+
 ## EXPERIENCE
 > #### DECEMBER 2020 - NOW
 > ### INTERPRETER, LanguageLine Solutions
@@ -31,6 +37,4 @@
 > Took daily attendance, notifying immediately of any student absence
 > Take photos of outdoor events held for children
 
-## SKILLS
-#### Programming languages: C, Java, Python, SQL, 
-#### Software: IntelliJ IDEA, Xcode, Microsoft Office, Adobe LIghtroom, GitHub
+
