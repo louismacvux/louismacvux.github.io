@@ -1,6 +1,6 @@
 # Create resume with static site generator
 
-## This will guide you through the process of creating a static site as a resume, and using the tools which are mentioned in Andrew Etter’s book Modern Technical Writing.
+## This document will guide you through the process of creating a static site as a resume, and using the tools which are mentioned in Andrew Etter’s book Modern Technical Writing.
 
 ## Prerequisite
 1. A GitHub account
@@ -27,7 +27,7 @@ Since the source of the resume must be written in Markdown, you need to choose a
 ## More resources:
 1. [Markdown tutorial](google.com) - not included
 2. [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/) by Andrew Etter
-3. One more source
+3. [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
 ## Authors and Acknowledgements
 Credit group member and template authors
