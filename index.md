@@ -1,4 +1,5 @@
-[LinkedIn](linkedin.com/in/longvux/) | (204) 557 0554 | [minhlong9696@gmail.com](minhlong9696@gmail.com)
+
+#### [LinkedIn](linkedin.com/in/longvux/) | (204) 557 0554 | [minhlong9696@gmail.com](minhlong9696@gmail.com)
 
 Self-motivated and reliable while doing high-demanding works. Responsible and fast-learner individuals who willing to grow professionally. Patient and skillful to do precise work.
 
