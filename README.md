@@ -45,12 +45,12 @@ The resume can be found [here](https://louismacvux.github.io/)
 <br>
 
 ## More resources
-1. [Markdown tutorial](google.com) - not included
+1. [Markdown tutorial](https://www.markdownguide.org/basic-syntax/)
 2. [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/) by Andrew Etter
-3. [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
-4.  [Codeberg Pages](https://codeberg.org/)
-5. [StackEdit](https://stackedit.io/)
-6. [Jekyll](https://jekyllrb.com/docs/themes/)
+3. Getting Started with [GitHub Pages](https://guides.github.com/features/pages/)
+4. [Codeberg Pages](https://codeberg.org/) - alternatives to GitHub Pages
+5. [StackEdit](https://stackedit.io/) - Markdown editor
+6. [Jekyll](https://jekyllrb.com/docs/themes/) theme
 <br>
 
 ## Authors and Acknowledgements
