@@ -1,7 +1,7 @@
 
 # Create resume with static site generator
 
-## This document will guide you through the process of creating a static site as a resume, and using the tools mentioned in Andrew Etter’s book *Modern Technical Writing*.
+#### This document will guide you through the process of creating a static site as a resume, and using the tools mentioned in Andrew Etter’s book *Modern Technical Writing*.
 ---
 ## Prerequisite
 1. A GitHub account
