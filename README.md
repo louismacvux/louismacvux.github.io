@@ -22,11 +22,19 @@ The resume can be found [here](https://louismacvux.github.io/)
 ### 2. Write a resume in Markdown
  >Markdown is a lightweight markup language using text editors. According to *Modern Technical Writing*, Markdown is human-readable, easy to learn and has a simple syntax. Moreover, it takes fewer characters to display the same content compare to something like XML. In today’s world, when everyone can be a contributor, using something widely used, easy to learn will increase people’s ability to contribute.
  - Since the resume must be written in Markdown, you need to choose a tool that lets you create a Markdown file and also preview it. I use [StackEdit](https://stackedit.io/) to write my resume in Markdown. If you’re already familiar with Markdown and how different syntax renders, then any text editor should give the same result. 
+ - Make sure the name of the file is `index.md`
 
 ### 3. Set up GitHub account 
->According to Andrew Etter, if you use PDFs or something similar to distribute documentation that is likely to be updated in the future, there is no way to enforce users to download the newer version. Even if they do, it will be separated PDFs, not overwriting the old one. So by updating the site that people need to go to for documentation, every change is made in one place and anyone can access the latest updates.
- - Create a GitHub account if you don’t have one. 
- - Create a repository with the name following this syntax: `[username].github.io` . The reason for the strict name is that when GitHub reads the repository name, they will automatically know that this is a repository to host a static page, and thus handle it differently. 
+>According to Andrew Etter, if you use PDFs or something similar to distribute documentation that is likely to be updated in the future, there is no way to enforce users to download the newer version. Even if they do, it will be separated PDFs, not overwriting the old one. So by updating the site that people need to go to for documentation, every change is made in one place and anyone can access the latest information.
+ - Create a [GitHub](https://github.com/) account if you don’t have one. 
+ - **Create a repository:**
+	 - Go to your GitHub profile, click + in the top right corner and choose **New repository**
+	 - Write`[username].github.io`as **Repository name** . The reason for the strict name is that when GitHub reads the repository name, they will automatically know that this is a repository to host a static page, and thus handle it differently. 
+	 - Choose **Public** for this repository
+	 - Click **Create Repository** 
+ - **Create GitHub Pages:**
+	 - Go to **Settings** tab of the repository, click on **Pages**. 
+	 - Under **Source**, choose `main` as your branch, then click **Save**
   - Unless you have a custom domain, the address of the web page is  `http://[username].github.io`. 
 
 ### 4. Upload the Markdown resume
