@@ -39,8 +39,9 @@ The resume can be found [here](https://louismacvux.github.io/)
 - Go to **Settings** tab of the repository, click on **Pages**. 
 - Under **Theme chooser** , click **Choose a Theme** to select a theme. 
 - Go through the themes available and click **Select Theme**. These are the [Jekyll](https://jekyllrb.com/docs/themes/) themes, which will work automatically with your Markdown file
+- After choosing a theme, a `_config.yml` file is added to the repository. Add `title` and `description` if you want to change the default configuration
+- ![Screen Shot 2021-11-02 at 8 15 14 PM](https://user-images.githubusercontent.com/57550224/139984575-637c44be-03d4-42b0-a660-612ffb456a1b.png)
 -  Once you choose a theme, your content in Markdown will be handled in the background and converted to HTML and shown on the site.
-### Animated gif
 <br>
 
 ## More resources
@@ -63,6 +64,7 @@ Documents that need to be updated over time, like software documentation, need t
 
 ### I can't find a theme that I really like. What should I do?
 If you find a theme that is most similar to what you're looking for, but some headings or the way the bullets are shown can use some adjustment, you can totally choose the theme and edit it to your liking. Or if nothing catch your eyes at all, you can create your own theme. Check out Jekyll in [More resources](https://github.com/louismacvux/louismacvux.github.io#more-resources)  to learn more about Jekyll theme
+
 
 
 
