@@ -11,6 +11,7 @@ Self-motivated and reliable while doing high-demanding works. Responsible and fa
 >* Analysis of Algorithm
 >* Programming Practices
 >* Discrete Mathematics 
+>* Technical Writing
 >
 > #### SEPTEMBER 2018-2019
 > ### B.SCIENCE, International College of Manitoba
@@ -20,8 +21,8 @@ Self-motivated and reliable while doing high-demanding works. Responsible and fa
 >* Computer Programming
 
 ## SKILLS
-#### Programming languages: C, Java, Python, SQL, 
-#### Software: IntelliJ IDEA, Xcode, Microsoft Office, Adobe Lightroom, GitHub
+#### Languages: C, Java, Python, SQL, OAS, Java Spring
+#### Software: IntelliJ IDEA, Xcode, Android Studio, Visual Studio, Swagger, MongoDB Atlas, GitHub, Microsoft Office
 
 ## EXPERIENCE
 > #### DECEMBER 2020 - NOW
